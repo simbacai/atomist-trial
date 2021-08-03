@@ -1,1 +1,3 @@
 # atomist-trial
+
+test integration
